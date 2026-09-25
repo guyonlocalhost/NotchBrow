@@ -1,0 +1,15 @@
+.build/
+build/
+*.app/
+.DS_Store
+__pycache__/
+*.pem
+*.p8
+update-key
+.env
+*.[mM][dD]
+*.markdown
+*.rst
+*.txt
+/docs/
+!/README.md
